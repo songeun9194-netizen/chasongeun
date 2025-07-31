@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Comparer",
+  "description": "An interactive tool to upload and compare 'before' and 'after' images with a dynamic slider. Perfect for photographers and designers to showcase the impact of their edits.",
+  "requestFramePermissions": []
+}
